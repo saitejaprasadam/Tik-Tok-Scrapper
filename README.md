@@ -9,5 +9,8 @@ Scrapper for downloading all the videos of a user
 # Run
   After config run the scrapper python file.
 
+# License
+This code is licensed under [MIT License](https://github.com/saitejaprasadam/Tik-Tok-Scrapper/blob/master/LICENSE).
+
 # Disclaimer
 This code is solely for educational purposes only. Use of Tik Tok is governed by the company's [Terms of Use](https://www.tiktok.com/en/terms-of-use). Any user content posted to Instagram is governed by the [Privacy Policy](https://www.tiktok.com/en/privacy-policy).
