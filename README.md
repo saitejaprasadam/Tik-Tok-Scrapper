@@ -6,6 +6,8 @@ Scrapper for downloading all the videos of a user
   * user_name is just for directory naming purpose
   * user_id you can fetch from https://tiktoky.com the url after selecting the required user profile
   
+  * Looks tiktoky is down, I will post alternate soon
+  
 # Run
   After config run the scrapper python file.
 
